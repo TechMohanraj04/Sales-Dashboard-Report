@@ -16,4 +16,4 @@ This repository contains a Power BI Sales Dashboard, which provides key insights
 🔹 Improve visual aesthetics
 
 5️⃣ Author & Contact
-📧 Mohanraj D – [(https://github.com/TechMohanraj04)]
+📧 Mohanraj D – {(https://github.com/TechMohanraj04)}
